@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @Nyuightq / Hui Seng </h2>
+<h2> 👋 Hi, I’m @Nyuightq </h2>
 
 - 👀 I’m interested in Frontend Development or Web develop related work
 - 🌱 I’m currently studying in TARUMT Diploma in Information Technology
